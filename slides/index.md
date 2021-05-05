@@ -127,7 +127,6 @@ While we can try to not to succumb to these pressures,
 # So... What do I do?
 
 * Build a narrative for your work
-  * Focus on outcomes
 * Arm your manager
 * Fight recency bias
 
@@ -154,7 +153,6 @@ Having a well-stated problem is a big part of being successful.
   (not just what was technically complex)
 * Focus on what **outcomes** you created
 * **Don't** share the complexity - nobody wants that
-  * Same work, two presentations
 
 ???
 
