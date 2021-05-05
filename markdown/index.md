@@ -61,10 +61,7 @@ But, most of the time this work doesn't get shared with anyone but the analyst.
 
 # The DS Process
 
-Graphic: ? -> squiggles -> !
-
-Squiggles are rising spring shape?
-Spring shape _then_ squiggles
+<img src="static/dsprocess.png" width=100%></img>
 
 ???
 
@@ -82,14 +79,7 @@ My rough view of how data science works:
 
 # What our stakeholders see:
 
-Graphic:
-
-Question:
-
-(5 years later)
-(mac beach ball)
-
-No.
+<center><img src="static/loading.png" width=40%></img></center>
 
 ???
 
@@ -297,9 +287,9 @@ because they wanted to keep their house cool.
 
 --
 
-{skeptical face}
-
-... that's not right.
+<center>
+<img src="static/skeptical.png" width=70%></img>
+</center>
 
 ???
 
